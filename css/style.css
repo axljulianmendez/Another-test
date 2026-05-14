@@ -27,6 +27,7 @@ html, body {
    VARIABLES GLOBALES
 ========================= */
 :root {
+  --color-text: rgb(5, 5, 5);
   --color-links: rgb(255, 77, 0);
   --color-header: rgb(248, 248, 248);
   --color-header2: rgba(10, 20, 40, 0.85);
